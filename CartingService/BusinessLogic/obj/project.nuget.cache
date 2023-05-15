@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NvqiddYqPSRd4uI3/uIcz0tbFEBvoaLHRrieqNdGqdxepUF0IsOrBvu91vJ6f31X5DAXRLPsDhrBW53nTzfgsw==",
+  "success": true,
+  "projectFilePath": "D:\\work\\Mentoring\\GIT\\M3\\CartingService\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

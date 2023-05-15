@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gJ/4IXZkzGMgK+RR0KvS+Y2Z/XrX876WnCaQwaawe1YwtGXg4YoVbFcCvc4wOxK9mhTv7lB1QjtS2+4k9QaIg==",
+  "success": true,
+  "projectFilePath": "D:\\work\\Mentoring\\GIT\\M3\\CartingService\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry_Zayats\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

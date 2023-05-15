@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a14107d2_002Dc01e_002D408b_002D9a36_002Debbcba66c468/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCartItems_ReturnsCartItems" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7858EFEC-AF3D-4545-8C8B-563E4D7DC3E9/f:CartsRepositoryTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E9A90AA8-60F4-4F40-A3BC-0C448E7E7154::net7.0::BusinessLogic.Tests.Carts.CartsServiceTests.GetCart_ReturnsCorrectCart&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E9A90AA8-60F4-4F40-A3BC-0C448E7E7154::net7.0::BusinessLogic.Tests.Carts.CartsServiceTests.AddCart_AddsCartSuccessfully&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E9A90AA8-60F4-4F40-A3BC-0C448E7E7154::net7.0::BusinessLogic.Tests.Carts.CartsServiceTests.GetCartItems_ReturnsCorrectItems&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E9A90AA8-60F4-4F40-A3BC-0C448E7E7154::net7.0::BusinessLogic.Tests.Carts.CartsServiceTests.AddItemToCart_AddsItemSuccessfully&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::E9A90AA8-60F4-4F40-A3BC-0C448E7E7154::net7.0::BusinessLogic.Tests.Carts.CartsServiceTests.RemoveItemFromCart_RemovesItemSuccessfully&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
